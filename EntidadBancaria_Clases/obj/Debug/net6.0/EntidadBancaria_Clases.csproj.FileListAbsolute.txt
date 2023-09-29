@@ -1,0 +1,14 @@
+C:\Users\herna\source\repos\EntidadBancaria\EntidadBancaria_Clases\obj\Debug\net6.0\EntidadBancaria_Clases.csproj.AssemblyReference.cache
+C:\Users\herna\source\repos\EntidadBancaria\EntidadBancaria_Clases\obj\Debug\net6.0\EntidadBancaria_Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herna\source\repos\EntidadBancaria\EntidadBancaria_Clases\obj\Debug\net6.0\EntidadBancaria_Clases.AssemblyInfoInputs.cache
+C:\Users\herna\source\repos\EntidadBancaria\EntidadBancaria_Clases\obj\Debug\net6.0\EntidadBancaria_Clases.AssemblyInfo.cs
+C:\Users\herna\source\repos\EntidadBancaria\EntidadBancaria_Clases\obj\Debug\net6.0\EntidadBancaria_Clases.csproj.CoreCompileInputs.cache
+C:\Users\herna\source\repos\EntidadBancaria\EntidadBancaria_Clases\bin\Debug\net6.0\EntidadBancaria_Clases.deps.json
+C:\Users\herna\source\repos\EntidadBancaria\EntidadBancaria_Clases\bin\Debug\net6.0\EntidadBancaria_Clases.runtimeconfig.json
+C:\Users\herna\source\repos\EntidadBancaria\EntidadBancaria_Clases\bin\Debug\net6.0\EntidadBancaria_Clases.dll
+C:\Users\herna\source\repos\EntidadBancaria\EntidadBancaria_Clases\bin\Debug\net6.0\EntidadBancaria_Clases.pdb
+C:\Users\herna\source\repos\EntidadBancaria\EntidadBancaria_Clases\obj\Debug\net6.0\EntidadBancaria_Clases.dll
+C:\Users\herna\source\repos\EntidadBancaria\EntidadBancaria_Clases\obj\Debug\net6.0\refint\EntidadBancaria_Clases.dll
+C:\Users\herna\source\repos\EntidadBancaria\EntidadBancaria_Clases\obj\Debug\net6.0\EntidadBancaria_Clases.pdb
+C:\Users\herna\source\repos\EntidadBancaria\EntidadBancaria_Clases\obj\Debug\net6.0\EntidadBancaria_Clases.genruntimeconfig.cache
+C:\Users\herna\source\repos\EntidadBancaria\EntidadBancaria_Clases\obj\Debug\net6.0\ref\EntidadBancaria_Clases.dll
